@@ -1,2 +1,2 @@
 # xips
-XPS Improvement Proposals
+The xPayments Improvement Proposal repository
